@@ -1,0 +1,16 @@
+# 비밀 값
+.env
+
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# 영상 결과물
+*.mp4
+*.mov
+*.mkv
+*.wav
+
+# 빈 임시 파일
+크로드1
